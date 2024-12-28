@@ -1,5 +1,4 @@
 # Business Development Intern Assessment Tasks
-## NOTE: Select any of the 2 Assignments from below and send the 
 **Othor AI**
 
 Dear Candidate,
